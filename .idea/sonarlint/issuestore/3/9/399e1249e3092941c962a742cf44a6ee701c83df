@@ -1,0 +1,10 @@
+
+‹
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦ş8ùüÓ–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãõ«Öúÿÿÿÿ8ĞüíŒ–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ˆªøÿÿÿÿ8ĞüíŒ–1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÈÆ€8ĞüíŒ–1
+
+java:S1128"lRemove this unused import 'com.github.sidartaoss.comercial.repositorio.memoria.MemoriaFabricaDeRepositorio'.(»Ä”…şÿÿÿÿ8€ıÓ–1
+…
+java:S1128"hRemove this unused import 'com.github.sidartaoss.comercial.repositorio.mysql.MySQLFabricaDeRepositorio'.(İ¯àè8ıÓ–1
